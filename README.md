@@ -1,4 +1,5 @@
 🌍 Global Electric Vehicle Sales Analysis (2010–2024) ⚡
+
 This project is about conducting an extensive analysis of global electric vehicle (EV) sales across regions, categories, and powertrain types from 2010 to 2024. It highlights adoption trends, growth patterns, and key insights into the EV market worldwide.
 
 📝 Table of Contents
@@ -39,6 +40,7 @@ The dataset includes the following key attributes:
 - PowerPoint – Presenting insights to stakeholders
 
 🗂️ Dashboard Link
+
 "C:\Users\ompra\OneDrive\Desktop\powerbi proj\ev project final.pbix"
 
 📊 Dashboard Overview
