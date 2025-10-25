@@ -14,6 +14,7 @@ This project is about conducting an extensive analysis of global electric vehicl
 - Key Learnings
 
 🎯 Objective
+
 The goal of this project is to analyze global EV adoption trends and identify growth opportunities across regions and categories. By leveraging Power BI, the project provides insights into EV penetration, powertrain preferences (BEV, PHEV, FCEV), and regional disparities, supporting strategic decision‑making for sustainable transportation.
 
 📌 My Tasks
@@ -41,7 +42,7 @@ The dataset includes the following key attributes:
 
 🗂️ Dashboard Link
 
-"C:\Users\ompra\OneDrive\Desktop\powerbi proj\ev project final.pbix"
+https://github.com/TalasilaOmprakash/powerbi_proj_on_EV_Sales-2010-2024-/blob/main/ev%20project%20final.pbix
 
 📊 Dashboard Overview
 - 🌐 Global Overview – Total EVs, Growth %, Top Regions, BEV Share
